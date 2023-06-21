@@ -1,0 +1,9 @@
+.Header {
+    padding: 1rem;
+    background-color: cadetblue;
+}
+
+.Header h1 {
+    color: lightgoldenrodyellow;
+    letter-spacing: 0.2rem;
+}
